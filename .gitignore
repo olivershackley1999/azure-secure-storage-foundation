@@ -1,0 +1,5 @@
+# compiled ARM output
+*.json
+!**/parameters.json
+.DS_Store
+.bicep/
